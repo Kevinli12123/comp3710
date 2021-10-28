@@ -1,5 +1,4 @@
 # comp3710
 The final report
 
-Segment the (downsampled) Prostate 3D data set with the UNet3D with all labels having a minimum Dice similarity coefficient of 0.7 on the test set.
-
+Create a generative model of the OASIS brain or the OAI AKOA knee data set using StyleGAN [10] or StyleGAN2 [11] that has a “reasonably clear image”.
